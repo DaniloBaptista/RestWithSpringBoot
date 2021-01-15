@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="183e96af-9358-4f14-88ce-874ca0a1ed60" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/ProjetoMaven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/src/main/java/br/com/erudio/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/src/main/java/br/com/erudio/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/src/main/java/br/com/erudio/StartUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/classes/br/com/erudio/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/classes/br/com/erudio/GreetingController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/classes/br/com/erudio/StartUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/rest-with-springboot-udemy-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 RestWithSpringBoot/target/rest-with-springboot-udemy-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/.idea/02 Calculadora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/ProjetoMaven.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/src/main/java/br/com/erudio/StartUp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/src/main/java/br/com/erudio/controllers/MathController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/src/main/java/br/com/erudio/conversoes/conversor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/src/main/java/br/com/erudio/exception/ExceptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/src/main/java/br/com/erudio/exception/UnsuportedMathOperationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/src/main/java/br/com/erudio/exception/handler/CustomizedResponseEntityExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/src/main/java/br/com/erudio/math/SimpleMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/classes/br/com/erudio/StartUp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/classes/br/com/erudio/controllers/MathController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/classes/br/com/erudio/conversoes/conversor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/classes/br/com/erudio/exception/ExceptionResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/classes/br/com/erudio/exception/UnsuportedMathOperationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/classes/br/com/erudio/exception/handler/CustomizedResponseEntityExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/classes/br/com/erudio/math/SimpleMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 Calculadora/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_25_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_orm_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/rest-with-springboot-udemy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/src/main/java/br/com/erudio/Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/src/main/java/br/com/erudio/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/src/main/java/br/com/erudio/exception/ExceptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/src/main/java/br/com/erudio/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/src/main/java/br/com/erudio/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/src/main/java/br/com/erudio/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/src/main/java/br/com/erudio/services/PersonServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-04 RestWithSpringBootUdemy Connecting To MySQL/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__javax_transaction_jta_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_25_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_orm_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/rest-with-springboot-udemy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/src/main/java/br/com/erudio/Startup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/src/main/java/br/com/erudio/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/src/main/java/br/com/erudio/exception/ExceptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/src/main/java/br/com/erudio/exception/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/src/main/java/br/com/erudio/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/src/main/java/br/com/erudio/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/src/main/java/br/com/erudio/services/PersonServices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 RestWithSpringBootUdemy Connecting To MySQL - Copia/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n6qkTBNMj8KDo8CVbXSyjO4h9j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RestWithSpringBoot" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="183e96af-9358-4f14-88ce-874ca0a1ed60" name="Default Changelist" comment="" />
+      <created>1610721032187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610721032187</updated>
+      <workItem from="1610721039002" duration="18000" />
+    </task>
+    <servers />
+  </component>
+</project>
